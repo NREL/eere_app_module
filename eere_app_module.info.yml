@@ -1,0 +1,5 @@
+name: 'EERE App Module'
+type: module
+description: 'Companion module to the EERE App Template theme.'
+core: 8.x
+version: 8.x-1.0

@@ -1,0 +1,5 @@
+services:
+  eere_app_module.route_subscriber:
+    class: Drupal\eere_app_module\Routing\RouteSubscriber
+    tags:
+      - { name: event_subscriber }

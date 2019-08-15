@@ -1,0 +1,22 @@
+{
+  "name": "nrel/eere_app_module",
+  "description": "Companion module to the EERE branded Drupal 8 bootstrap parent theme.",
+  "type": "drupal-module",
+  "license": "GPL-2.0",
+  "homepage": "https://github.com/NREL/eere_app_module",
+  "authors": [
+    {
+      "name": "Damon Haley (dhaley)",
+      "email": "damon.haley@nrel.gov",
+      "role": "Maintainer"
+    },
+    {
+      "name": "Shaun Laws (slaws)",
+      "email": "shaun.laws@nrel.gov",
+      "role": "Co-maintainer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/NREL/eere_app_module/issues"
+  }
+}

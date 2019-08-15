@@ -1,0 +1,6 @@
+# Extend the system.site configuration
+system.site:
+  mapping:
+    site_office:
+      type: label
+      label: 'Site Office'
