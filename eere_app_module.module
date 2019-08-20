@@ -5,4 +5,3 @@
  * NREL Cyber-related functionality.
  */
 
-define('EERE_APP_MODULE_PATH', base_path() . drupal_get_path('module', 'eere_app_module'));
