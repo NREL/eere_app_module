@@ -4,3 +4,9 @@ system.site:
     site_office:
       type: label
       label: 'Site Office'
+    site_office_url:
+      type: label
+      label: 'Site Office URL'
+    contact_url:
+      type: label
+      label: 'Contact Us URL'
