@@ -2,6 +2,12 @@
 
 /**
  * @file
- * NREL Cyber-related functionality.
+ * EERE specific functionality.
  */
 
+function eere_app_module_page_attachments(array &$attachments) {
+
+    // Unconditionally attach the EERE GA code to the page.
+    $attachments['#attached']['library'][] = 'eere_app_module/eere_ga';
+
+}

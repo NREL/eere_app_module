@@ -1,0 +1,10 @@
+eere_ga:
+  header: true
+  js:
+    //www.eere.energy.gov/includes/ga/eere.js: {
+      type: external,
+      attributes: {
+        integrity: sha384-AIon4qfpe4CY81GdkCxE2BG7T9DV2wL32hdNFj0ir8ciMasOp48BwqhQrohzpD7y==,
+        crossorigin: anonymous
+      }
+    }

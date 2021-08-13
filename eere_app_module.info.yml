@@ -1,5 +1,8 @@
 name: 'EERE App Module'
 type: module
-description: 'Companion module to the EERE App Template theme.'
+description: 'EERE specific functionality and companion module to the EERE App Template theme.'
 core_version_requirement: ^8.8 || ^9
 version: 8.x-1.0
+
+libraries:
+  - eere_app_module/eere_ga
