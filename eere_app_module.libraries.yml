@@ -1,6 +1,0 @@
-eere_ga:
-  header: true
-  js:
-    //www.eere.energy.gov/includes/ga/eere.js: {
-      type: external
-    }
